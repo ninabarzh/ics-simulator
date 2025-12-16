@@ -93,7 +93,8 @@ ics-simulator/
 │   ├── EXPLOITATION.md                # How to use attack scripts
 │   └── ARCHITECTURE.md                # System design details
 └── examples/
-    └── full_demo.sh                   # Orchestrated demonstration
+    ├── attack_script.py               # Attack template (adopt and adapt)
+    └── demo.sh                        # Orchestrated demonstration
 ```
 
 ## The penetration test story
