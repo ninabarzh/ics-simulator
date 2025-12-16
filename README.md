@@ -162,7 +162,7 @@ Based on [documentation](https://red.tymyrddin.dev/docs/power/) showing:
 - [EXPLOITATION.md](docs/EXPLOITATION.md) - Detailed attack script usage
 - [ARCHITECTURE.md](docs/ARCHITECTURE.md) - Technical design and Modbus register map
 
-## Example: Full Attack demonstration
+## Example: Full attack demonstration
 
 ```bash
 # 1. Start the victim system (Terminal 1)
