@@ -9,13 +9,13 @@ a fictional wind turbine farm operated by the Unseen University in Ankh-Morpork.
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![Python 3.12+](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/downloads/)
 
-## Educational Project
+## Educational project
 
 This is a fictional scenario for cybersecurity education. The "Unseen University Power & Light Co." is based on 
 Terry Pratchett's Discworld series. All systems, attacks, and vulnerabilities demonstrated here are for authorised 
 testing and learning purposes only.
 
-## Background Story
+## Background story
 
 Unseen University Power & Light Co. operates a wind turbine farm in Ankh-Morpork. As a penetration tester, you've been 
 hired to assess the security of their industrial control systems. The facility includes:
