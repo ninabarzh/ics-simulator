@@ -1,2 +1,3 @@
-# ics-simulator
-Simulator for Unseen University Power &amp; Light Co. (OT/ICS penetration testing)
+# ICS simulator
+
+OT/ICS penetration testing simulator for Unseen University Power & Light Co.
