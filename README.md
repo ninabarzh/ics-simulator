@@ -79,11 +79,13 @@ ics-simulator/
 │   ├── turbine_overspeed_attack.py   # Gradual overspeed attack
 │   ├── turbine_emergency_stop.py     # Mass shutdown attack
 │   ├── anomaly_bypass_test.py        # Detection evasion testing
-│   └── siem_correlation_test.py      # Multi-stage attack chain
+│   ├── siem_correlation_test.py      # Multi-stage attack chain
+|   └── ...
 ├── exfiltration/
 │   ├── covert_exfiltration.py        # DNS/HTTPS/slow exfiltration
 │   ├── historian_exfiltration.py     # Database extraction demo
-│   └── plc_logic_extraction.py       # Ladder logic theft demo
+│   ├── plc_logic_extraction.py       # Ladder logic theft demo
+|   └── ...
 ├── analysis/
 │   └── ladder_logic_analysis.py      # Configuration analysis demo
 ├── docs/
