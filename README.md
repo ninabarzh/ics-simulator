@@ -15,7 +15,7 @@ This is a fictional scenario for cybersecurity education. The "Unseen University
 Terry Pratchett's Discworld series. All systems, attacks, and vulnerabilities demonstrated here are for authorised 
 testing and learning purposes only.
 
-## 📖 Background Story
+## Background Story
 
 Unseen University Power & Light Co. operates a wind turbine farm in Ankh-Morpork. As a penetration tester, you've been 
 hired to assess the security of their industrial control systems. The facility includes:
@@ -149,7 +149,7 @@ All scripts we developed in our conversation:
 
 ### The "UU P&L" scenario
 
-Based on https://red.tymyrddin.dev/docs/power/ documentation showing:
+Based on [documentation](https://red.tymyrddin.dev/docs/power/) showing:
 
 - Network architecture
 - System components
