@@ -137,6 +137,7 @@ Demonstrate the full kill chain with `siem_correlation_test.py`.
 ### The turbine simulator
 
 Emulates a Siemens/Allen-Bradley style PLC with:
+
 - Modbus/TCP on port 502
 - Holding Registers: Setpoints (speed, temperature alarms, e-stop)
 - Input Registers: Current measurements (speed, temperature)
@@ -144,9 +145,10 @@ Emulates a Siemens/Allen-Bradley style PLC with:
 
 ### Attack scripts
 
-All scripts we developed in our conversation:
+All scripts are/have:
+
 - Configured for `127.0.0.1` (local testing)
-- Safe by default (restore original values)
+- Restore original values
 - Detailed logging and reporting
 - Educational output explaining impact
 
