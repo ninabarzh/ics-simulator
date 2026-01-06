@@ -41,7 +41,7 @@ pycparser==2.23
 Pygments==2.19.2
 pylogix==1.1.4
 pymodbus==3.11.4
-PyNaCl==1.6.1
+PyNaCl==1.6.2
 pyodbc==5.3.0
 pyOpenSSL==25.3.0
 pyparsing==3.2.5
